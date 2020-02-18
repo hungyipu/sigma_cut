@@ -10,7 +10,7 @@ The THEMIS pipeline scoring results are availbe in the folders HARM_sc{1,4,64}</
 
 ### data_movie
 Various movie showing the comparision of the data is in the folder [data_move](https://github.com/hungyipu/sigma_cut/tree/master/data_movie)</br>
-For example, the data (100 frams) for MAD, a+0.94, Rhigh=160 with three different sigma cuts:
+For example, the data (100 frames) for MAD, a+0.94, Rhigh=160 with three different sigma cuts:
 
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_movie/mov_sc_sc_MAD_a%2B0.94_m160.gif)
 
@@ -23,6 +23,6 @@ for sc=4 is
 for sc=64 is
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/compare_result/sc64_mod.png)
 
-A movie for the above result is
+A movie for the above results is
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/compare_result/movie_all_mod.gif)
 
