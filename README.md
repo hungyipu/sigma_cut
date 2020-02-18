@@ -1,10 +1,10 @@
 # sigma_cut
-score images of different sigma_cut, with 3598 hi data.<\br>
+score images of different sigma cut (sc), with 3598 hi data.<\br>
 
 ### data
-sigma_cut = 1 are from the image library used in the paper V </br>
-sigma_cut = 4 are from bh:/bd3/eht/M87/sigma_cut/sc_4/* </br>
-sigma_cut = 64 are from bh:/bd3/eht/M87/sigma_cut/sc_64/* </br>
+sc = 1 are from the image library used in the paper V </br>
+sc = 4 are from bh:/bd3/eht/M87/sigma_cut/sc_4/* </br>
+sc = 64 are from bh:/bd3/eht/M87/sigma_cut/sc_64/* </br>
 each contatins 100 snapshots.<\br>
 The THEMIS pipeline scoring results are availbe in the folders HARM_sc{1,4,64}<\br>
 
