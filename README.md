@@ -23,3 +23,6 @@ for sc=4 is
 for sc=64 is
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/compare_result/sc64_mod.png)
 
+A movie for the above result is
+![example](https://github.com/hungyipu/sigma_cut/blob/master/compare_result/sc64_mod.png)
+
