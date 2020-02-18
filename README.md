@@ -6,7 +6,7 @@ sc = 1 are from the image library used in the paper V </br>
 sc = 4 are from bh:/bd3/eht/M87/sigma_cut/sc_4/* </br>
 sc = 64 are from bh:/bd3/eht/M87/sigma_cut/sc_64/* </br>
 each contatins 100 snapshots.<\br>
-The THEMIS pipeline scoring results are availbe in the folders HARM_sc{1,4,64}<\br>
+The THEMIS pipeline scoring results are availbe in the folders HARM_sc{1,4,64}</br>
 
 ### data_movie
 Various movie showing the comparision of the data is in the folder [data_move](https://github.com/hungyipu/sigma_cut/tree/master/data_movie)</br>
