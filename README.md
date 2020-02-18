@@ -1,5 +1,5 @@
 # sigma_cut
-## score images of different sigma cut (sc), with 3598 hi data.<\br>
+## score images of different sigma cut (sc), with 3598 hi data
 
 ### data
 sc = 1 are from the image library used in the paper V </br>
