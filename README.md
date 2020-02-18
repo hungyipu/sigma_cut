@@ -13,6 +13,10 @@ Various movie showing the comparision of the data is in the folder [data_move](h
 For example, the data (100 frames) for MAD, a+0.94, Rhigh=160 with three different sigma cuts:
 
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_movie/mov_sc_sc_MAD_a%2B0.94_m160.gif)
+</br>
+for MAD, a-0.94, Rhigh=160 with three different sigma cuts:
+![example](https://github.com/hungyipu/sigma_cut/blob/master/data_movie/mov_sc_sc_MAD_a-0.94_m160.gif)
+
 
 ### results
 comparision of the scoring result is shown in the folder [compare_result](https://github.com/hungyipu/sigma_cut/tree/master/compare_result) </br>
