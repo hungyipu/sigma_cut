@@ -15,7 +15,7 @@ Various movie showing the comparision of the original data is in the folder [dat
 </br>
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_MAD_a%2B0.94_m1.gif)
 
-#### NOT-TOO-TIGHT ligtcurve correclation for high negative spin MAD (a=-0.94)
+#### NOT-TOO-TIGHT (or ANTI-correlation?) ligtcurve correclation for high negative spin MAD (a=-0.94)
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_MAD_a-0.94_m160.gif)
 </br>
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_MAD_a-0.94_m1.gif)
