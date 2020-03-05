@@ -12,7 +12,7 @@ Various movie showing the comparision of the data is in the folder [data_overvie
 #### TIGHT ligtcurve correclation for high spin MAD
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_MAD_a%2B0.94_m160.gif)
 </br>
-![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_MAD_a%2B0.94_m160.gif)
+![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_MAD_a%2B0.94_m1.gif)
 
 #### NOT-TOO-TIGHT ligtcurve correclation for high spin SANE
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_MAD_a-0.94_m160.gif)
@@ -22,7 +22,7 @@ Various movie showing the comparision of the data is in the folder [data_overvie
 #### TIGHT ligtcurve correclation for high spin MAD
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_SANE_a%2B0.94_m160.gif)
 </br>
-![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_SANE_a%2B0.94_m160.gif)
+![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_SANE_a%2B0.94_m1.gif)
 
 #### TIGHT ligtcurve correclation for high spin SANE
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_SANE_a-0.94_m160.gif)
