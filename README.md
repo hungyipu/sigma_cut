@@ -8,7 +8,7 @@ M62F05_HARM_sc64: sc = 64 are from bh:/bd3/eht/M87/sigma_cut/M62F05/sc_64/* </br
 each contatins 100 snapshots.</br>
 
 ### data_overview folders
-Various movie showing the comparision of the original data is in the folder [data_overview](https://github.com/hungyipu/sigma_cut/tree/master/data_overview), which shows:</br>
+Movies showing the comparision between different ORIGINAL dataset is in the folder [data_overview](https://github.com/hungyipu/sigma_cut/tree/master/data_overview), which shows:</br>
 
 #### TIGHT ligtcurve correclation for high positive spin MAD (a=+0.94)
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_MAD_a%2B0.94_m160.gif)
