@@ -9,22 +9,22 @@ each contatins 100 snapshots.</br>
 
 ### data_overview folders
 Various movie showing the comparision of the data is in the folder [data_overview](https://github.com/hungyipu/sigma_cut/tree/master/data_overview)</br>
-#### TIGHT ligtcurve correclation for high spin MAD
+#### TIGHT ligtcurve correclation for high positive spin MAD (a=+0.94)
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_MAD_a%2B0.94_m160.gif)
 </br>
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_MAD_a%2B0.94_m1.gif)
 
-#### NOT-TOO-TIGHT ligtcurve correclation for high spin SANE
+#### NOT-TOO-TIGHT ligtcurve correclation for high negative spin MAD (a=-0.94)
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_MAD_a-0.94_m160.gif)
 </br>
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_MAD_a-0.94_m1.gif)
 
-#### TIGHT ligtcurve correclation for high spin MAD
+#### TIGHT ligtcurve correclation for high positive spin SANE (a=+0.94)
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_SANE_a%2B0.94_m160.gif)
 </br>
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_SANE_a%2B0.94_m1.gif)
 
-#### TIGHT ligtcurve correclation for high spin SANE
+#### TIGHT ligtcurve correclation for high negative spin SANE (a=-0.94)
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_SANE_a-0.94_m160.gif)
 </br>
 ![example](https://github.com/hungyipu/sigma_cut/blob/master/data_overview/mov_sc_SANE_a-0.94_m1.gif)
